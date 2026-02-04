@@ -1,0 +1,4 @@
+model-path: ~/.cache/huggingface/hub/models--Qwen--Qwen3-0.6B
+host: 0.0.0.0
+port: 30000
+device: cpu
